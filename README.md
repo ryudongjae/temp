@@ -155,7 +155,7 @@ column-count : 1 ;
 }
 ```
 
-****columns는 속성 →columns는 column의 너비와 개수를 일괄 지정하기 위한 대표 속성****
+****columns 속성 →columns는 column의 너비와 개수를 일괄 지정하기 위한 대표 속성****
 
 ```css
 div { 
